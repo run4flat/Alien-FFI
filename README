@@ -1,0 +1,46 @@
+NAME
+
+Alien::FFI - an Alien package for libffi
+
+DESCRIPTION
+
+This Alien package, built on Alien::Base, provides libffi, a foreign function
+interface. I hope that this provides a base package for the forthcoming Ctypes
+library.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+The best place to get help for this module is to file Issues on github:
+
+    http://github.com/run4flat/Alien-FFI/issues
+
+Mostly, I don't expect that you'll want to use this module directly, but
+should look into Ctypes:
+
+    http://gitorious.org/perl-ctypes
+
+or, for a currently working project, FFI:
+
+    http://search.cpan.org/dist/FFI/
+
+AUTHOR AND COPYRIGHT
+
+Written by David Mertens, Copyright 2012 Northwestern University
+
+LICENSE
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
+
+See http://dev.perl.org/licenses/ for more information.
+

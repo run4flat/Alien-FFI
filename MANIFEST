@@ -1,3 +1,4 @@
+inc/Devel/CheckLib.pm
 Build.PL
 lib/Alien/FFI.pm
 MANIFEST This list of files
