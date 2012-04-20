@@ -28,7 +28,7 @@ should look into Ctypes:
 
     http://gitorious.org/perl-ctypes
 
-or, for a currently working project, FFI:
+or, for a currently working project based on FFCall, see FFI:
 
     http://search.cpan.org/dist/FFI/
 
